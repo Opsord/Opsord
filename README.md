@@ -2,12 +2,12 @@
 
 - 👽 My name is Andres Zelaya and I am a software engineering student at the University of Santiago(USACH)
 - ✨ I am curious, adaptable, a fast learner and I like developing my skills.
-- 🪴 I have studied low and high level programming, databases, programming paradigms and I have worked with multiple technologies.
+- 🪴 I have studied low and high level programming, databases, multipe programming paradigms and I have worked with multiple technologies.
 - 🌱 I am currently learning Java Spring.
 - 📫 You can conctact me via e-mail: andres.zelaya.d@hotmail.com
 ---
 
-### 💻 Languages and Tools
+### 💻 Languages and Tools that I have used
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
