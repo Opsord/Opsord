@@ -36,7 +36,7 @@ Currently studying software engineering at the [University of Santiago](https://
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,kubernetes,git,github,idea)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=jreact,latex,spring,java,mysql,postgres,postman,jenkins,nginx&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,latex,spring,java,mysql,postgres,postman,jenkins,nginx&perline=9)](https://skillicons.dev)
 
 </div>
 
