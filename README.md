@@ -1,12 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=opsord.opsord" />
-# Hi 👋 My name is Andres Zelaya Droguett
 
-## Fullstack Developer
+# 🦎 Andres Zelaya Droguett
 
-Currently studying software engineering at the University of Santiago where I've worked on diverse projects, honing my skills in software design and problem-solving.
+## Fullstack Developer / Software Engineering Student
+
+Currently studying software engineering at the [University of Santiago](https://www.usach.cl) where I've worked on diverse projects, honing my skills in software design and problem-solving.
 
 - 🌍  I'm based in Chile
-- 🖥️  See my portfolio at [Github.io](http://opsord.github.io)
+- 💻  See my portfolio at [Github.io](http://opsord.github.io)
 - ✉️  You can contact me at [azedro.dev@gmail.com](mailto:azedro.dev@gmail.com)
 - 🚀  I'm currently working on my [Academic Courses Portal](http://github.com/Opsord/TINGESO-EV-03)
 - 🧠  I'm improving my front-end habilities
