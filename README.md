@@ -8,13 +8,17 @@ Currently studying software engineering at the [University of Santiago](https://
 
 <div align="center">
 
-🌍  Based in Chile
-🚀  Currently working on my [Academic Courses Portal](http://github.com/Opsord/TINGESO-EV-03)
+🌍  Based in **Chile**
+
+🚀  Currently working on my **[Academic Courses Portal](http://github.com/Opsord/TINGESO-EV-03)**
+
 🧠  Improving my front-end habilities
+
 🤝  Open to collaborate
+
 ⚡  Also, dedicated Gamer
 
- </div>
+</div>
 
 <div align="center"> 
 <a href="mailto:azedro.dev@gmail.com">
