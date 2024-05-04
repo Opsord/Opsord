@@ -10,9 +10,9 @@ Currently studying software engineering at the [University of Santiago](https://
 
 🌍  Based in **Chile**
 
-🚀  Currently working on my **[Academic Courses Portal](http://github.com/Opsord/TINGESO-EV-03)**
+🚀  Currently working on my **[Volunteer managment platform](https://github.com/Opsord/TBD-Lab02-1-2024)**
 
-🧠  Improving my front-end habilities
+🧠  Improving my back-end habilities
 
 🤝  Open to collaborate
 
