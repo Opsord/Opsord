@@ -5,7 +5,7 @@
   <b>Fullstack Developer</b> &bull; <b>Software Engineering Student</b>
 </p>
 <p align="center">
-  <a href="mailto:azedro.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:andres.zelaya@usach.cl"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/andres-z-161685129/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://opsord.github.io"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=todoist&logoColor=white"/></a>
 </p>
