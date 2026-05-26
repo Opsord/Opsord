@@ -2,7 +2,7 @@
 
 <h1 align="center">🦎 Andres Zelaya Droguett</h1>
 <p align="center">
-  <b>Fullstack Developer</b> &bull; <b>Software Engineering Student</b>
+  <b>Fullstack Developer</b> &bull; <b>Software Engineer</b>
 </p>
 <p align="center">
   <a href="mailto:andres.zelaya@usach.cl"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
